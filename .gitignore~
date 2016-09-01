@@ -1,0 +1,6 @@
+virtual/*
+!virtual/sistema
+
+*.pyc
+*.pyo
+*env

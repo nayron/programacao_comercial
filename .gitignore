@@ -1,5 +1,6 @@
 virtual/*
 !virtual/sistema
+!virtual/mysite
 
 *.pyc
 *.pyo
